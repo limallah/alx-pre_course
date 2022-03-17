@@ -1,2 +1,2 @@
-# alx-pre_course
+# Alx--pre_course
 getting started with git
